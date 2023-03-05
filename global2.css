@@ -1,0 +1,12 @@
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-base: 30px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkcyan-100: #1c8b84;
+  --color-mediumturquoise: #56d5cd;
+}
